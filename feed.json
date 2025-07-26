@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2025/07/26/postcards-for-my-boys-always.html",
+				
+				"content_html": "<p>Postcards for my boys. Always.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Postcards for my boys. Always.\n\n<img src=\"uploads/2025/5704fcff9f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-07-26T01:00:04-04:00",
+				"url": "https://bump.net/2025/07/26/postcards-for-my-boys-always.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2025/05/12/a-post-about-a-glyph.html",
 				"title": "A post about a glyph",
 				"content_html": "<p>There are very few things in the computer world that would immediately get me to sit down at my computer, log into my CMS, and post something to this blog. One of these things, however, is <a href=\"https://daringfireball.net/linked/2025/05/12/that-stupid-apple-notes-a\">a post about the &ldquo;a&rdquo; glyph in Apple Notes</a>.</p>\n<p>Let me just start by saying that Apple Notes is overall just an amazing tool for a free included app. It works great, it syncs well, and I use it like a virtual filing cabinet. If it&rsquo;s not in Noteplan, it&rsquo;s probably in Notes.</p>\n<p>Having said that, both the Daring Fireball post on this, and the Engadget post it refers back to, are spot on. It&rsquo;s an odd decision that Apple seems strangely committed to.</p>\n",
