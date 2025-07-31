@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2025/07/31/early-morning-beach.html",
+				
+				"content_html": "<p>Early morning beach.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Early morning beach. \n\n<img src=\"https://cdn.uploads.micro.blog/554/2025/2fab61d483.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-07-31T08:07:14-07:00",
+				"url": "https://bump.net/2025/07/31/early-morning-beach.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2025/07/30/off-for-the-day-does.html",
+				
+				"content_html": "<p>Off for the Day does not mean a day off, sadly.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Off for the Day does not mean a day off, sadly. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/554/2025/939f358882.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-07-30T09:29:36-07:00",
+				"url": "https://bump.net/2025/07/30/off-for-the-day-does.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2025/07/29/huntington-beach-california.html",
 				
 				"content_html": "<p>Huntington Beach, California</p>\n<!-- raw HTML omitted -->\n",
@@ -13024,15 +13040,6 @@
 				"content_text": "I guess I'm not getting what the fuss is all about with this CSS versus tables thing.  I have three or four tables at my house that work fine.  In fact, I'm typing on one of those tables now.  Why would I replace them with some CSS thing?  Can I put my coffee on it?\n",
 				"date_published": "2002-02-13T23:22:00-07:00",
 				"url": "https://bump.net/2002/02/14/i-guess-im.html",
-				"tags": ["Uncategorized"]
-			},
-			{
-				"id": "http://bump.micro.blog/2002/02/14/nokia-contact-sender.html",
-				
-				"content_html": "<p><!-- raw HTML omitted -->Nokia Contact Sender<!-- raw HTML omitted --> is a great Mac OS X app that lets you send VCards to your Nokia phone.  I just saved myself about an hour of typing on the keypad.</p>\n",
-				"content_text": "<a href=\"http://homepage.mac.com/netsettings/nokiacontactsender.html\">Nokia Contact Sender</a> is a great Mac OS X app that lets you send VCards to your Nokia phone.  I just saved myself about an hour of typing on the keypad.\n",
-				"date_published": "2002-02-13T22:41:00-07:00",
-				"url": "https://bump.net/2002/02/14/nokia-contact-sender.html",
 				"tags": ["Uncategorized"]
 			},
 			{
