@@ -7,11 +7,44 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/01/04/a-quick-read-about-an.html",
+				
+				"content_html": "<p>3/100</p>\n<p>A quick read about an admirable and intriguing person who had a very large influence on culture.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "3/100\n\nA quick read about an admirable and intriguing person who had a very large influence on culture. \n\n\n\n<img src=\"uploads/2026/51da454340.jpg\" width=\"442\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-04T10:41:12-05:00",
+				"url": "https://bump.net/2026/01/04/a-quick-read-about-an.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/01/03/a-short-storynovella-a-delight.html",
+				
+				"content_html": "<p>2/100 A short story/novella, a delight nonetheless.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "2/100 A short story/novella, a delight nonetheless. \n\n\n\n<img src=\"uploads/2026/4750bbc20b.jpg\" width=\"402\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-03T12:22:18-05:00",
+				"url": "https://bump.net/2026/01/03/a-short-storynovella-a-delight.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/01/03/the-last-few-calm-days.html",
+				
+				"content_html": "<p>The last few calm days before we go back to the craziness of regular routine.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The last few calm days before we go back to the craziness of regular routine. \n\n<img src=\"uploads/2026/44045c30ef.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-03T10:44:20-05:00",
+				"url": "https://bump.net/2026/01/03/the-last-few-calm-days.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/01/02/all-the-pocket-notebooks-i.html",
+				
+				"content_html": "<p>All the Pocket Notebooks I used in 2025.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "All the Pocket Notebooks I used in 2025.\n\n\n\n\n<img src=\"uploads/2026/9faf84050b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-02T15:06:13-05:00",
+				"url": "https://bump.net/2026/01/02/all-the-pocket-notebooks-i.html",
+				"tags": ["xoxo","pens","Stationary"]
+			},
+			{
 				"id": "http://bump.micro.blog/2026/01/02/borrowed-through-libby-quite-enjoyable.html",
 				
-				"content_html": "<p>1/100</p>\n<!-- raw HTML omitted -->\n<p>Borrowed through Libby. Quite enjoyable.</p>\n",
-				"content_text": "1/100\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/f4d3f88ec5.jpg\" width=\"397\" height=\"600\" alt=\"\">\n\nBorrowed through Libby. Quite enjoyable. \n",
-				"date_published": "2026-01-02T12:46:22-07:00",
+				"content_html": "<p>1/100 <em>Remarkably Bright Creatures</em> by Shelby Van Pelt</p>\n<!-- raw HTML omitted -->\n<p>Borrowed through Libby. Quite enjoyable.</p>\n",
+				"content_text": "1/100 _Remarkably Bright Creatures_ by Shelby Van Pelt\n\n<img src=\"uploads/2026/f4d3f88ec5.jpg\" width=\"397\" height=\"600\" alt=\"\">\n\nBorrowed through Libby. Quite enjoyable. \n",
+				"date_published": "2026-01-02T14:46:22-05:00",
 				"url": "https://bump.net/2026/01/02/borrowed-through-libby-quite-enjoyable.html"
 			},
 			{
@@ -19,7 +52,7 @@
 				
 				"content_html": "<p>Current status</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Current status \n\n<img src=\"https://cdn.uploads.micro.blog/554/2025/3367668908.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-09-20T12:31:02-07:00",
+				"date_published": "2025-09-20T14:31:02-05:00",
 				"url": "https://bump.net/2025/09/20/current-status.html"
 			},
 			{
@@ -27,7 +60,7 @@
 				
 				"content_html": "<p>Out: Field Notes x Wilco Nels Cline &amp; <a href=\"%5Bladdesign.net%5D(https://laddesign.net/)\">Lawrence Azerrad</a></p>\n<p>In: DDC-054 M x L x B x D Edition (October 2017) (October 2017)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Out: Field Notes x Wilco Nels Cline & [Lawrence Azerrad]([laddesign.net](https://laddesign.net/))\n\nIn: DDC-054 M x L x B x D Edition (October 2017) (October 2017)\n\n<img src=\"https://cdn.uploads.micro.blog/554/2025/581a7b615e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-09-10T11:51:22-07:00",
+				"date_published": "2025-09-10T13:51:22-05:00",
 				"url": "https://bump.net/2025/09/10/out-field-notes-x-wilco.html"
 			},
 			{
@@ -35,7 +68,7 @@
 				
 				"content_html": "<p>Out: Starbucks Reserve Coffee Origins Latin America</p>\n<p>In: Field Notes x Wilco Nels Cline &amp; <a href=\"https://laddesign.net/\">Lawrence Azerrad</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Out: Starbucks Reserve Coffee Origins Latin America\n\nIn: Field Notes x Wilco Nels Cline & [Lawrence Azerrad](https://laddesign.net/)\n\n<img src=\"https://cdn.uploads.micro.blog/554/2025/97a20892dd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-08-25T10:04:49-07:00",
+				"date_published": "2025-08-25T12:04:49-05:00",
 				"url": "https://bump.net/2025/08/25/out-starbucks-reserve-coffee-origins.html"
 			},
 			{
@@ -84,7 +117,7 @@
 				"title": "View from my morning coffee: US Open of Surfing",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n\n<img src=\"https://cdn.uploads.micro.blog/554/2025/img-1957.jpg\">\n",
-				"date_published": "2025-07-27T08:48:36-07:00",
+				"date_published": "2025-07-27T10:48:36-05:00",
 				"url": "https://bump.net/2025/07/27/view-from-my-morning-coffee.html",
 				"tags": ["Photo"]
 			},
@@ -20144,6 +20177,15 @@
 				"content_text": "<a href=\"http://news.cnet.com/news/0-1005-200-2103169.html\">Someone actually bought</a> the FreeWheelz URL used in the Esquire April Fools joke(via <a href=\"http://www.tomalak.org/\">Tomalak</a>).\n",
 				"date_published": "2000-06-18T19:15:00-07:00",
 				"url": "https://bump.net/2000/06/18/someone-actually-bought.html",
+				"tags": ["Uncategorized"]
+			},
+			{
+				"id": "http://bump.micro.blog/2000/06/18/a-site-that.html",
+				
+				"content_html": "<p>A site that reminds me how much I wish I could draw is <!-- raw HTML omitted -->Loobylu<!-- raw HTML omitted -->.(via <!-- raw HTML omitted -->saturn.org<!-- raw HTML omitted -->)</p>\n",
+				"content_text": "A site that reminds me how much I wish I could draw is <a href=\"http://loobylu.com\">Loobylu</a>.(via <a href=\"http://www.saturn.org\">saturn.org</a>)\n",
+				"date_published": "2000-06-18T19:08:00-07:00",
+				"url": "https://bump.net/2000/06/18/a-site-that.html",
 				"tags": ["Uncategorized"]
 			},
 			{
