@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/01/08/so-well-written-and-moving.html",
+				
+				"content_html": "<p>So well written, and moving. We can all do better, and should.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "So well written, and moving. We can all do better, and should. \n\n<img src=\"uploads/2026/74b33c0d02.jpg\" width=\"401\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-08T11:02:36-05:00",
+				"url": "https://bump.net/2026/01/08/so-well-written-and-moving.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/01/07/as-worthwhile-for-readers-as.html",
+				
+				"content_html": "<p>4/100</p>\n<p>As worthwhile for readers as for writers, quite enjoyable.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "4/100\n\nAs worthwhile for readers as for writers, quite enjoyable.\n\n<img src=\"uploads/2026/25a03269ee.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-07T10:46:13-05:00",
+				"url": "https://bump.net/2026/01/07/as-worthwhile-for-readers-as.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/01/07/a-quick-read-about-an.html",
 				
 				"content_html": "<p>3/100</p>\n<p>A quick read about an admirable and intriguing person who had a very large influence on culture.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://bump.micro.blog/2026/01/03/the-last-few-calm-days.html",
 				
 				"content_html": "<p>The last few calm days before we go back to the craziness of regular routine.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The last few calm days before we go back to the craziness of regular routine. \n\n<img src=\"uploads/2026/44045c30ef.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The last few calm days before we go back to the craziness of regular routine. \n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/44045c30ef.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-03T10:44:20-05:00",
 				"url": "https://bump.net/2026/01/03/the-last-few-calm-days.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://bump.micro.blog/2026/01/02/all-the-pocket-notebooks-i.html",
 				
 				"content_html": "<p>All the Pocket Notebooks I used in 2025.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All the Pocket Notebooks I used in 2025.\n\n\n\n\n<img src=\"uploads/2026/9faf84050b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "All the Pocket Notebooks I used in 2025.\n\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/9faf84050b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-02T15:06:13-05:00",
 				"url": "https://bump.net/2026/01/02/all-the-pocket-notebooks-i.html",
 				"tags": ["xoxo","pens","Stationary"]
@@ -51,7 +67,7 @@
 				"id": "http://bump.micro.blog/2026/01/02/borrowed-through-libby-quite-enjoyable.html",
 				
 				"content_html": "<p>1/100 <em>Remarkably Bright Creatures</em> by Shelby Van Pelt</p>\n<!-- raw HTML omitted -->\n<p>Borrowed through Libby. Quite enjoyable.</p>\n",
-				"content_text": "1/100 _Remarkably Bright Creatures_ by Shelby Van Pelt\n\n<img src=\"uploads/2026/f4d3f88ec5.jpg\" width=\"397\" height=\"600\" alt=\"\">\n\nBorrowed through Libby. Quite enjoyable. \n",
+				"content_text": "1/100 _Remarkably Bright Creatures_ by Shelby Van Pelt\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/f4d3f88ec5.jpg\" width=\"397\" height=\"600\" alt=\"\">\n\nBorrowed through Libby. Quite enjoyable. \n",
 				"date_published": "2026-01-02T14:46:22-05:00",
 				"url": "https://bump.net/2026/01/02/borrowed-through-libby-quite-enjoyable.html"
 			},
@@ -76,7 +92,7 @@
 				
 				"content_html": "<p>Out: Starbucks Reserve Coffee Origins Latin America</p>\n<p>In: Field Notes x Wilco Nels Cline &amp; <a href=\"https://laddesign.net/\">Lawrence Azerrad</a></p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Out: Starbucks Reserve Coffee Origins Latin America\n\nIn: Field Notes x Wilco Nels Cline & [Lawrence Azerrad](https://laddesign.net/)\n\n<img src=\"https://cdn.uploads.micro.blog/554/2025/97a20892dd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-08-25T12:04:49-05:00",
+				"date_published": "2025-08-25T10:04:49-07:00",
 				"url": "https://bump.net/2025/08/25/out-starbucks-reserve-coffee-origins.html"
 			},
 			{
