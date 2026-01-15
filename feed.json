@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/01/15/book-i-learned-a-lot.html",
+				
+				"content_html": "<p>Book 6/100</p>\n<p>I learned a lot reading this book, which says a lot given that I lived through all of this culture and change.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Book 6/100\n\nI learned a lot reading this book, which says a lot given that I lived through all of this culture and change.\n\n<img src=\"uploads/2026/4cef1eb08c.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-15T14:01:13-05:00",
+				"url": "https://bump.net/2026/01/15/book-i-learned-a-lot.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/01/08/so-well-written-and-moving.html",
 				
-				"content_html": "<p>So well written, and moving. We can all do better, and should.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So well written, and moving. We can all do better, and should. \n\n<img src=\"uploads/2026/74b33c0d02.jpg\" width=\"401\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>5/100</p>\n<p>So well written, and moving. We can all do better, and should.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "5/100\n\nSo well written, and moving. We can all do better, and should. \n\n<img src=\"uploads/2026/74b33c0d02.jpg\" width=\"401\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-08T11:02:36-05:00",
 				"url": "https://bump.net/2026/01/08/so-well-written-and-moving.html"
 			},
@@ -42,7 +50,7 @@
 				"id": "http://bump.micro.blog/2026/01/03/a-short-storynovella-a-delight.html",
 				
 				"content_html": "<p>2/100 A short story/novella, a delight nonetheless.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "2/100 A short story/novella, a delight nonetheless. \n\n\n\n<img src=\"uploads/2026/4750bbc20b.jpg\" width=\"402\" height=\"600\" alt=\"\">\n",
+				"content_text": "2/100 A short story/novella, a delight nonetheless. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/4750bbc20b.jpg\" width=\"402\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-03T12:22:18-05:00",
 				"url": "https://bump.net/2026/01/03/a-short-storynovella-a-delight.html"
 			},
