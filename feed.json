@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/01/26/book-these-get-more-and.html",
+				
+				"content_html": "<p>Book 9/100</p>\n<p>These get more and more bonkers as we go. They are just what I need right now, and I’m a little sad I only have one left at the moment.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Book 9/100\n\nThese get more and more bonkers as we go. They are just what I need right now, and I’m a little sad I only have one left at the moment.\n\n<img src=\"uploads/2026/923de93fec.png\" width=\"393\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-26T10:38:12-05:00",
+				"url": "https://bump.net/2026/01/26/book-these-get-more-and.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/01/22/book-a-tiny-bit-dated.html",
 				
 				"content_html": "<p>Book 8/100</p>\n<p>A tiny bit dated but really enjoyable nonetheless.</p>\n<!-- raw HTML omitted -->\n",
@@ -164,7 +172,7 @@
 				"id": "http://bump.micro.blog/2025/07/27/view-from-my-morning-coffee.html",
 				"title": "View from my morning coffee: US Open of Surfing",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n\n<img src=\"https://cdn.uploads.micro.blog/554/2025/img-1957.jpg\">\n",
+				"content_text": "\n\n\n<img src=\"uploads/2025/img-1957.jpg\">\n",
 				"date_published": "2025-07-27T10:48:36-05:00",
 				"url": "https://bump.net/2025/07/27/view-from-my-morning-coffee.html",
 				"tags": ["Photo"]
