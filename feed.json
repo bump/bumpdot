@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
-				"id": "http://bump.micro.blog/2026/02/06/and-sometimes-the-most-faithful.html",
+				"id": "http://bump.micro.blog/2026/02/10/book-of-a-fantastic-story.html",
 				
-				"content_html": "<p>_<em>And sometimes the most faithful thing you can do—for your thinking, your creativity, your inner life—is to stop moving and let one idea finish its sentence.\nYou don’t need a new system.\nYou don’t need better inputs.\nYou don’t need to be more original.</em></p>\n<p><a href=\"https://greg210.substack.com/p/6-ways-to-think-with-notes-instead\">The Note-Taking Practice Almost Everyone Overlooks</a></p>\n",
-				"content_text": "__And sometimes the most faithful thing you can do—for your thinking, your creativity, your inner life—is to stop moving and let one idea finish its sentence.\nYou don’t need a new system.\nYou don’t need better inputs.\nYou don’t need to be more original._\n\n[The Note-Taking Practice Almost Everyone Overlooks](https://greg210.substack.com/p/6-ways-to-think-with-notes-instead)\n",
+				"content_html": "<p>Book 13 of 100</p>\n<p>A fantastic story that is a reminder that we all have at least a little bit of magic in us.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Book 13 of 100\n\n\nA fantastic story that is a reminder that we all have at least a little bit of magic in us.\n\n\n<img src=\"uploads/2026/c3754ebb8c.png\" width=\"393\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-10T15:15:52-05:00",
+				"url": "https://bump.net/2026/02/10/book-of-a-fantastic-story.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/02/06/and-sometimes-the-most-faithful.html",
+				"title": "New",
+				"content_html": "<p><em>And sometimes the most faithful thing you can do—for your thinking, your creativity, your inner life—is to stop moving and let one idea finish its sentence.</em></p>\n<p><em>You don’t need a new system.</em></p>\n<p><em>You don’t need better inputs.</em></p>\n<p><em>You don’t need to be more original.</em></p>\n<p><a href=\"https://greg210.substack.com/p/6-ways-to-think-with-notes-instead\">The Note-Taking Practice Almost Everyone Overlooks</a></p>\n",
+				"content_text": "_And sometimes the most faithful thing you can do—for your thinking, your creativity, your inner life—is to stop moving and let one idea finish its sentence._\n\n_You don’t need a new system._\n\n_You don’t need better inputs._\n\n_You don’t need to be more original._\n\n[The Note-Taking Practice Almost Everyone Overlooks](https://greg210.substack.com/p/6-ways-to-think-with-notes-instead)\n",
 				"date_published": "2026-02-06T09:50:30-05:00",
 				"url": "https://bump.net/2026/02/06/and-sometimes-the-most-faithful.html"
 			},
@@ -42,7 +50,7 @@
 				"id": "http://bump.micro.blog/2026/01/26/book-these-get-more-and.html",
 				
 				"content_html": "<p>Book 9/100</p>\n<p>These get more and more bonkers as we go. They are just what I need right now, and I’m a little sad I only have one left at the moment.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Book 9/100\n\nThese get more and more bonkers as we go. They are just what I need right now, and I’m a little sad I only have one left at the moment.\n\n<img src=\"uploads/2026/923de93fec.png\" width=\"393\" height=\"600\" alt=\"\">\n",
+				"content_text": "Book 9/100\n\nThese get more and more bonkers as we go. They are just what I need right now, and I’m a little sad I only have one left at the moment.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/923de93fec.png\" width=\"393\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-26T10:38:12-05:00",
 				"url": "https://bump.net/2026/01/26/book-these-get-more-and.html"
 			},
