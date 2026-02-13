@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/02/13/wont-fix.html",
+				"title": "Won’t Fix",
+				"content_html": "<p><a href=\"https://jawestenberg.substack.com/p/wont-fix-self-help?utm_source=substack&amp;utm_campaign=posts-open-in-app&amp;utm_medium=email&amp;r=ub7y&amp;triedRedirect=true\">Stop trying to ship Human 2.0. Tag the bugs, write the wrappers, and get back to building something worth building. The most productive version of you probably looks a lot like the current version of you, plus a few well-placed adapter patterns and minus about thirty self-help books worth of guilt about not being somone else.</a></p>\n",
+				"content_text": "[Stop trying to ship Human 2.0. Tag the bugs, write the wrappers, and get back to building something worth building. The most productive version of you probably looks a lot like the current version of you, plus a few well-placed adapter patterns and minus about thirty self-help books worth of guilt about not being somone else.](https://jawestenberg.substack.com/p/wont-fix-self-help?utm_source=substack&utm_campaign=posts-open-in-app&utm_medium=email&r=ub7y&triedRedirect=true)\n",
+				"date_published": "2026-02-13T07:49:46-05:00",
+				"url": "https://bump.net/2026/02/13/wont-fix.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/02/10/book-of-a-fantastic-story.html",
 				
 				"content_html": "<p>Book 13 of 100</p>\n<p>A fantastic story that is a reminder that we all have at least a little bit of magic in us.</p>\n<!-- raw HTML omitted -->\n",
