@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/02/15/book-of-an-excellent-overview.html",
+				
+				"content_html": "<p>Book 14 of 100</p>\n<p>An excellent overview, especially for beginners, a little simplistic for my knowledge level but still interesting and useful.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Book 14 of 100\n\nAn excellent overview, especially for beginners, a little simplistic for my knowledge level but still interesting and useful.\n\n<img src=\"uploads/2026/8cc5d94887.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-15T09:58:12-05:00",
+				"url": "https://bump.net/2026/02/15/book-of-an-excellent-overview.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/02/13/wont-fix.html",
 				"title": "Won’t Fix",
-				"content_html": "<p><a href=\"https://jawestenberg.substack.com/p/wont-fix-self-help?utm_source=substack&amp;utm_campaign=posts-open-in-app&amp;utm_medium=email&amp;r=ub7y&amp;triedRedirect=true\">Stop trying to ship Human 2.0. Tag the bugs, write the wrappers, and get back to building something worth building. The most productive version of you probably looks a lot like the current version of you, plus a few well-placed adapter patterns and minus about thirty self-help books worth of guilt about not being somone else.</a></p>\n",
-				"content_text": "[Stop trying to ship Human 2.0. Tag the bugs, write the wrappers, and get back to building something worth building. The most productive version of you probably looks a lot like the current version of you, plus a few well-placed adapter patterns and minus about thirty self-help books worth of guilt about not being somone else.](https://jawestenberg.substack.com/p/wont-fix-self-help?utm_source=substack&utm_campaign=posts-open-in-app&utm_medium=email&r=ub7y&triedRedirect=true)\n",
+				"content_html": "<p><a href=\"https://jawestenberg.substack.com/p/wont-fix-self-help?utm_source=substack&amp;utm_campaign=posts-open-in-app&amp;utm_medium=email&amp;r=ub7y&amp;triedRedirect=true\">“Stop trying to ship Human 2.0. Tag the bugs, write the wrappers, and get back to building something worth building. The most productive version of you probably looks a lot like the current version of you, plus a few well-placed adapter patterns and minus about thirty self-help books worth of guilt about not being somone else.”</a></p>\n",
+				"content_text": "[“Stop trying to ship Human 2.0. Tag the bugs, write the wrappers, and get back to building something worth building. The most productive version of you probably looks a lot like the current version of you, plus a few well-placed adapter patterns and minus about thirty self-help books worth of guilt about not being somone else.”](https://jawestenberg.substack.com/p/wont-fix-self-help?utm_source=substack&utm_campaign=posts-open-in-app&utm_medium=email&r=ub7y&triedRedirect=true)\n",
 				"date_published": "2026-02-13T07:49:46-05:00",
 				"url": "https://bump.net/2026/02/13/wont-fix.html"
 			},
@@ -50,7 +58,7 @@
 				"id": "http://bump.micro.blog/2026/01/29/book-this-one-had-some.html",
 				
 				"content_html": "<p>Book 10/100</p>\n<p>This one had some really good stuff in it that I found useful. A main concept that I will utilize is “freewriting” which I am adding to my journaling routine.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Book 10/100 \n\nThis one had some really good stuff in it that I found useful. A main concept that I will utilize is “freewriting” which I am adding to my journaling routine.\n\n<img src=\"uploads/2026/cc25121c1f.png\" width=\"393\" height=\"600\" alt=\"\">\n",
+				"content_text": "Book 10/100 \n\nThis one had some really good stuff in it that I found useful. A main concept that I will utilize is “freewriting” which I am adding to my journaling routine.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/cc25121c1f.png\" width=\"393\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-29T09:31:31-05:00",
 				"url": "https://bump.net/2026/01/29/book-this-one-had-some.html"
 			},
