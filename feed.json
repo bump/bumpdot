@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/02/23/book-of-kj-parkers-brand.html",
+				"title": "Book 15 of 100",
+				"content_html": "<p>K.J. Parker’s brand of dark and smart humor was reliably great in the start of this new series. Can’t wait for book two.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\nK.J. Parker’s brand of dark and smart humor was reliably great in the start of this new series. Can’t wait for book two. \n\n<img src=\"uploads/2026/181e165594.jpg\">\n",
+				"date_published": "2026-02-23T11:13:04-05:00",
+				"url": "https://bump.net/2026/02/23/book-of-kj-parkers-brand.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/02/22/newold-look-for-bumpnet.html",
+				"title": "New/Old Look for Bump.net ",
+				"content_html": "<p>I&rsquo;ve had this blog up on micro.blog for a bit now, and just kept one of the stock themes that they offer. As I have managed to maintain a bit more momentum with posting, this has felt like it lacks the personality that I want this blog to have.</p>\n<p>Upon futher reflection, I thought for a bit about <a href=\"https://web.archive.org/web/20030218132608/http://www.bump.net/\">the early 2000&rsquo;s version of this site</a>, and I decided to go back to the future. This new theme is pretty close to the spirit of that ancient one. Still some tweaking required, but it was also pretty cool to learn how Hugo works.</p>\n",
+				"content_text": "I've had this blog up on micro.blog for a bit now, and just kept one of the stock themes that they offer. As I have managed to maintain a bit more momentum with posting, this has felt like it lacks the personality that I want this blog to have. \n\nUpon futher reflection, I thought for a bit about [the early 2000's version of this site](https://web.archive.org/web/20030218132608/http://www.bump.net/), and I decided to go back to the future. This new theme is pretty close to the spirit of that ancient one. Still some tweaking required, but it was also pretty cool to learn how Hugo works. \n",
+				"date_published": "2026-02-22T15:49:12-05:00",
+				"url": "https://bump.net/2026/02/22/newold-look-for-bumpnet.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/02/22/its-gold.html",
+				
+				"content_html": "<p>It’s Gold!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s Gold! \n\n<img src=\"uploads/2026/21ca739c3c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-02-22T12:12:21-05:00",
+				"url": "https://bump.net/2026/02/22/its-gold.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/02/15/book-of-an-excellent-overview.html",
 				
 				"content_html": "<p>Book 14 of 100</p>\n<p>An excellent overview, especially for beginners, a little simplistic for my knowledge level but still interesting and useful.</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +50,7 @@
 				"id": "http://bump.micro.blog/2026/02/10/book-of-a-fantastic-story.html",
 				
 				"content_html": "<p>Book 13 of 100</p>\n<p>A fantastic story that is a reminder that we all have at least a little bit of magic in us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Book 13 of 100\n\n\nA fantastic story that is a reminder that we all have at least a little bit of magic in us.\n\n\n<img src=\"uploads/2026/c3754ebb8c.png\" width=\"393\" height=\"600\" alt=\"\">\n",
+				"content_text": "Book 13 of 100\n\n\nA fantastic story that is a reminder that we all have at least a little bit of magic in us.\n\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/c3754ebb8c.png\" width=\"393\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-10T15:15:52-05:00",
 				"url": "https://bump.net/2026/02/10/book-of-a-fantastic-story.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://bump.micro.blog/2026/02/04/book-of-this-one-is.html",
 				
 				"content_html": "<p>Book 12 of 100.</p>\n<p>This one is really good, fairly short. A more somber and emotional take on the plot of the Groundhog Day movie.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Book 12 of 100.\n\nThis one is really good, fairly short. A more somber and emotional take on the plot of the Groundhog Day movie. \n\n<img src=\"uploads/2026/d8edb92ee7.png\" width=\"393\" height=\"600\" alt=\"\">\n",
+				"content_text": "Book 12 of 100.\n\nThis one is really good, fairly short. A more somber and emotional take on the plot of the Groundhog Day movie. \n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/d8edb92ee7.png\" width=\"393\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-04T12:05:47-05:00",
 				"url": "https://bump.net/2026/02/04/book-of-this-one-is.html"
 			},
@@ -50,7 +74,7 @@
 				"id": "http://bump.micro.blog/2026/02/04/book-of-a-truly-epic.html",
 				
 				"content_html": "<p>Book 11 of 100.</p>\n<p>A truly epic, both in length and story, tale of a Polynesian navigator that happens over a thousand years ago.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Book 11 of 100. \n\nA truly epic, both in length and story, tale of a Polynesian navigator that happens over a thousand years ago.\n\n<img src=\"uploads/2026/524e78203c.jpg\" width=\"395\" height=\"600\" alt=\"\">\n",
+				"content_text": "Book 11 of 100. \n\nA truly epic, both in length and story, tale of a Polynesian navigator that happens over a thousand years ago.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/524e78203c.jpg\" width=\"395\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-04T12:02:12-05:00",
 				"url": "https://bump.net/2026/02/04/book-of-a-truly-epic.html"
 			},
