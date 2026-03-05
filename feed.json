@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/03/05/a-day-to-celebrate-new.html",
+				
+				"content_html": "<p>A day to celebrate, new personal Mac day!</p>\n<p>Let the setup commence.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A day to celebrate, new personal Mac day!\n\nLet the setup commence. \n\n<img src=\"uploads/2026/020c92ac7c.jpg\" width=\"462\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-05T11:31:10-05:00",
+				"url": "https://bump.net/2026/03/05/a-day-to-celebrate-new.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/03/04/also-very-excited-for-my.html",
+				
+				"content_html": "<p>Also very excited for my new personal 14” MacBook Pro to arrive tomorrow. I somehow managed to not order the wrong thing with all the Apple announcements this week.</p>\n",
+				"content_text": "Also very excited for my new personal 14” MacBook Pro to arrive tomorrow. I somehow managed to not order the wrong thing with all the Apple announcements this week. \n",
+				"date_published": "2026-03-04T16:26:17-05:00",
+				"url": "https://bump.net/2026/03/04/also-very-excited-for-my.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/03/04/i-was-able-to-crank.html",
+				
+				"content_html": "<p>I was able to crank out some additional blog improvements today. Mostly fixing how archives work, since the out of the box ones on micro.blog don’t quite fit what I want.</p>\n",
+				"content_text": "I was able to crank out some additional blog improvements today. Mostly fixing how archives work, since the out of the box ones on micro.blog don’t quite fit what I want. \n",
+				"date_published": "2026-03-04T16:23:30-05:00",
+				"url": "https://bump.net/2026/03/04/i-was-able-to-crank.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/03/04/book-of-i-was-surprised.html",
+				
+				"content_html": "<p>Book 17 of 100</p>\n<p>I was surprised to realize that I hadn’t read this when the series started up. A solid effort but not quite a five star for me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Book 17 of 100\n\nI was surprised to realize that I hadn’t read this when the series started up. A solid effort but not quite a five star for me. \n\n\n\n<img src=\"uploads/2026/0e9d7cbed6.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-04T16:17:06-05:00",
+				"url": "https://bump.net/2026/03/04/book-of-i-was-surprised.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/02/27/book-of-pulled-at-my.html",
 				
 				"content_html": "<p>Book 16 of 100</p>\n<p>Pulled at my heart strings, a very real and very human book about a relationship in and out of an extreme situation.</p>\n<!-- raw HTML omitted -->\n",
@@ -18,7 +50,7 @@
 				"id": "http://bump.micro.blog/2026/02/23/book-of-kj-parkers-brand.html",
 				"title": "Book 15 of 100",
 				"content_html": "<p>K.J. Parker’s brand of dark and smart humor was reliably great in the start of this new series. Can’t wait for book two.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\nK.J. Parker’s brand of dark and smart humor was reliably great in the start of this new series. Can’t wait for book two. \n\n<img src=\"uploads/2026/181e165594.jpg\">\n",
+				"content_text": "\nK.J. Parker’s brand of dark and smart humor was reliably great in the start of this new series. Can’t wait for book two. \n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/181e165594.jpg\">\n",
 				"date_published": "2026-02-23T11:13:04-05:00",
 				"url": "https://bump.net/2026/02/23/book-of-kj-parkers-brand.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://bump.micro.blog/2026/02/22/its-gold.html",
 				
 				"content_html": "<p>It’s Gold!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s Gold! \n\n<img src=\"uploads/2026/21ca739c3c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "It’s Gold! \n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/21ca739c3c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-22T12:12:21-05:00",
 				"url": "https://bump.net/2026/02/22/its-gold.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://bump.micro.blog/2026/02/15/book-of-an-excellent-overview.html",
 				
 				"content_html": "<p>Book 14 of 100</p>\n<p>An excellent overview, especially for beginners, a little simplistic for my knowledge level but still interesting and useful.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Book 14 of 100\n\nAn excellent overview, especially for beginners, a little simplistic for my knowledge level but still interesting and useful.\n\n<img src=\"uploads/2026/8cc5d94887.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
+				"content_text": "Book 14 of 100\n\nAn excellent overview, especially for beginners, a little simplistic for my knowledge level but still interesting and useful.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/8cc5d94887.jpg\" width=\"398\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-15T09:58:12-05:00",
 				"url": "https://bump.net/2026/02/15/book-of-an-excellent-overview.html"
 			},
@@ -82,7 +114,7 @@
 				"id": "http://bump.micro.blog/2026/02/04/book-of-a-truly-epic.html",
 				
 				"content_html": "<p>Book 11 of 100.</p>\n<p>A truly epic, both in length and story, tale of a Polynesian navigator that happens over a thousand years ago.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Book 11 of 100. \n\nA truly epic, both in length and story, tale of a Polynesian navigator that happens over a thousand years ago.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/524e78203c.jpg\" width=\"395\" height=\"600\" alt=\"\">\n",
+				"content_text": "Book 11 of 100. \n\nA truly epic, both in length and story, tale of a Polynesian navigator that happens over a thousand years ago.\n\n<img src=\"uploads/2026/524e78203c.jpg\" width=\"395\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-04T12:02:12-05:00",
 				"url": "https://bump.net/2026/02/04/book-of-a-truly-epic.html"
 			},
@@ -141,14 +173,6 @@
 				"content_text": "4/100\n\nAs worthwhile for readers as for writers, quite enjoyable.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/25a03269ee.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-07T10:46:13-05:00",
 				"url": "https://bump.net/2026/01/07/as-worthwhile-for-readers-as.html"
-			},
-			{
-				"id": "http://bump.micro.blog/2026/01/07/a-quick-read-about-an.html",
-				
-				"content_html": "<p>3/100</p>\n<p>A quick read about an admirable and intriguing person who had a very large influence on culture.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "3/100\n\nA quick read about an admirable and intriguing person who had a very large influence on culture. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/51da454340.jpg\" width=\"442\" height=\"600\" alt=\"\">\n",
-				"date_published": "2026-01-07T10:45:51-05:00",
-				"url": "https://bump.net/2026/01/07/a-quick-read-about-an.html"
 			},
 			{
 				"id": "http://bump.micro.blog/2026/01/04/a-quick-read-about-an.html",
