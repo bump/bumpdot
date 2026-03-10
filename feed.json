@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/03/10/book-of-while-i-enjoyed.html",
+				
+				"content_html": "<p>Book 18 of 100</p>\n<p>While I enjoyed the first two books in this series more than this one, it was still fun and entertaining. I do hope that there are more books in this series, slow fantasy is a soothing genre.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Book 18 of 100\n\nWhile I enjoyed the first two books in this series more than this one, it was still fun and entertaining. I do hope that there are more books in this series, slow fantasy is a soothing genre. \n\n\n\n<img src=\"uploads/2026/4263254537.jpg\" width=\"395\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-10T10:07:29-05:00",
+				"url": "https://bump.net/2026/03/10/book-of-while-i-enjoyed.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/03/09/thats-the-thing-ive-been.html",
 				
-				"content_html": "<p>“_That’s the thing I’ve been doing all along.</p>\n<p>Not productivity.\nNot systems.\nNot tutorials.</p>\n<p>Just noticing small things and following the idea trail._”</p>\n<ul>\n<li><a href=\"https://greg210.substack.com/p/the-word-that-changed-how-i-see-my\">Greg Wheeler</a></li>\n</ul>\n",
-				"content_text": "“_That’s the thing I’ve been doing all along.\n\nNot productivity.\nNot systems.\nNot tutorials.\n\nJust noticing small things and following the idea trail._”\n\n- [Greg Wheeler](https://greg210.substack.com/p/the-word-that-changed-how-i-see-my)\n",
+				"content_html": "<p>“That’s the thing I’ve been doing all along.</p>\n<p>Not productivity.</p>\n<p>Not systems.</p>\n<p>Not tutorials.</p>\n<p>Just noticing small things and following the idea trail.”</p>\n<p><a href=\"https://greg210.substack.com/p/the-word-that-changed-how-i-see-my\">Greg Wheeler</a></p>\n",
+				"content_text": "“That’s the thing I’ve been doing all along.\n\nNot productivity.\n\nNot systems.\n\nNot tutorials.\n\nJust noticing small things and following the idea trail.”\n\n[Greg Wheeler](https://greg210.substack.com/p/the-word-that-changed-how-i-see-my)\n",
 				"date_published": "2026-03-09T08:49:09-05:00",
 				"url": "https://bump.net/2026/03/09/thats-the-thing-ive-been.html"
 			},
