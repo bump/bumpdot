@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/03/22/one-of-the-best-adaptations.html",
+				
+				"content_html": "<p>One of the best adaptations I have ever seen. Really great movie.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One of the best adaptations I have ever seen. Really great movie.\n\n\n<img src=\"uploads/2026/279f55933e.jpg\" width=\"471\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-22T15:06:56-04:00",
+				"url": "https://bump.net/2026/03/22/one-of-the-best-adaptations.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/03/18/was-just-reading-some-old.html",
+				
+				"content_html": "<p>Was just reading some old posts on this site, and ended up on the archive page for 2026. There are a lot more posts there than any other recent year. I&rsquo;m really happy to be posting more regularly again.</p>\n",
+				"content_text": "Was just reading some old posts on this site, and ended up on the archive page for 2026. There are a lot more posts there than any other recent year. I'm really happy to be posting more regularly again. \n",
+				"date_published": "2026-03-18T19:46:25-04:00",
+				"url": "https://bump.net/2026/03/18/was-just-reading-some-old.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/03/18/book-of-i-think-the.html",
 				
 				"content_html": "<p>Book 21 of 100</p>\n<p>I think the last time I read this one was when I was younger than either of my sons currently are. It’s truly a gem of a fantasy book, from an era when fantasy wasn’t nearly as popular or mainstream.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://bump.micro.blog/2026/03/10/book-of-while-i-enjoyed.html",
 				
 				"content_html": "<p>Book 18 of 100</p>\n<p>While I enjoyed the first two books in this series more than this one, it was still fun and entertaining. I do hope that there are more books in this series, slow fantasy is a soothing genre.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Book 18 of 100\n\nWhile I enjoyed the first two books in this series more than this one, it was still fun and entertaining. I do hope that there are more books in this series, slow fantasy is a soothing genre. \n\n\n\n<img src=\"uploads/2026/4263254537.jpg\" width=\"395\" height=\"600\" alt=\"\">\n",
+				"content_text": "Book 18 of 100\n\nWhile I enjoyed the first two books in this series more than this one, it was still fun and entertaining. I do hope that there are more books in this series, slow fantasy is a soothing genre. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/4263254537.jpg\" width=\"395\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-10T11:07:29-04:00",
 				"url": "https://bump.net/2026/03/10/book-of-while-i-enjoyed.html"
 			},
@@ -66,7 +82,7 @@
 				"id": "http://bump.micro.blog/2026/03/05/a-day-to-celebrate-new.html",
 				"title": "New Mac Day ",
 				"content_html": "<p>A day to celebrate, new personal Mac day!</p>\n<p>Let the setup commence.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A day to celebrate, new personal Mac day!\n\nLet the setup commence.\n\n<img src=\"uploads/2026/020c92ac7c.jpg\">\n",
+				"content_text": "A day to celebrate, new personal Mac day!\n\nLet the setup commence.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/020c92ac7c.jpg\">\n",
 				"date_published": "2026-03-05T12:31:10-04:00",
 				"url": "https://bump.net/2026/03/05/a-day-to-celebrate-new.html"
 			},
