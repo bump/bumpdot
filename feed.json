@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/03/25/in-ddc-irregular-doomed-edition.html",
+				
+				"content_html": "<p>In: DDC Irregular Doomed Edition Space Shuttle (December 2019)</p>\n<p>Out: 1943 (November 2025)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In: DDC Irregular Doomed Edition Space Shuttle (December 2019)\n\nOut: 1943 (November 2025)\n\n<img src=\"uploads/2026/8b666315c6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-25T11:30:27-04:00",
+				"url": "https://bump.net/2026/03/25/in-ddc-irregular-doomed-edition.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/03/22/one-of-the-best-adaptations.html",
 				
 				"content_html": "<p>One of the best adaptations I have ever seen. Really great movie.</p>\n<!-- raw HTML omitted -->\n",
@@ -82,7 +90,7 @@
 				"id": "http://bump.micro.blog/2026/03/05/a-day-to-celebrate-new.html",
 				"title": "New Mac Day ",
 				"content_html": "<p>A day to celebrate, new personal Mac day!</p>\n<p>Let the setup commence.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A day to celebrate, new personal Mac day!\n\nLet the setup commence.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/020c92ac7c.jpg\">\n",
+				"content_text": "A day to celebrate, new personal Mac day!\n\nLet the setup commence.\n\n<img src=\"uploads/2026/020c92ac7c.jpg\">\n",
 				"date_published": "2026-03-05T12:31:10-04:00",
 				"url": "https://bump.net/2026/03/05/a-day-to-celebrate-new.html"
 			},
