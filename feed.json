@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/03/31/book-of-i-hope-what.html",
+				
+				"content_html": "<p>Book 23 of 100, I hope.</p>\n<p>What a trip. I’ll still be thinking about this one a week and a month from now, probably.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Book 23 of 100, I hope.\n\nWhat a trip. I’ll still be thinking about this one a week and a month from now, probably.\n\n\n\n<img src=\"uploads/2026/d32af81bd7.jpg\" width=\"384\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-31T11:27:03-04:00",
+				"url": "https://bump.net/2026/03/31/book-of-i-hope-what.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/03/27/book-of-this-one-was.html",
 				
 				"content_html": "<p>Book 22 of 100.</p>\n<p>This one was good, and I can see why so many people liked it. I didn’t get attached to any of the characters in the way I would have expected to.</p>\n<!-- raw HTML omitted -->\n",
@@ -98,7 +106,7 @@
 				"id": "http://bump.micro.blog/2026/03/05/a-day-to-celebrate-new.html",
 				"title": "New Mac Day ",
 				"content_html": "<p>A day to celebrate, new personal Mac day!</p>\n<p>Let the setup commence.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A day to celebrate, new personal Mac day!\n\nLet the setup commence.\n\n<img src=\"uploads/2026/020c92ac7c.jpg\">\n",
+				"content_text": "A day to celebrate, new personal Mac day!\n\nLet the setup commence.\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/020c92ac7c.jpg\">\n",
 				"date_published": "2026-03-05T12:31:10-04:00",
 				"url": "https://bump.net/2026/03/05/a-day-to-celebrate-new.html"
 			},
