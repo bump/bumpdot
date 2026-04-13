@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/04/13/out-ddc-irregular-doomed-edition.html",
+				
+				"content_html": "<p>Out: DDC Irregular Doomed Edition Space Shuttle (December 2019)</p>\n<p>In: XOXO Festival 2016</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Out: DDC Irregular Doomed Edition Space Shuttle (December 2019)\n\nIn: XOXO Festival 2016\n\n<img src=\"uploads/2026/6ff8a250c4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-13T18:04:57-04:00",
+				"url": "https://bump.net/2026/04/13/out-ddc-irregular-doomed-edition.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/04/11/doing-stuff-can-be-relaxing.html",
 				"title": "Doing Stuff Can be Relaxing Too ",
-				"content_html": "<p>My weekend priorities:</p>\n<ol>\n<li>Relax</li>\n<li>Read</li>\n<li>Make way for our new bedtroom furniture (excited).</li>\n<li>NAS Maintenance.</li>\n<li>Complete reconfiguring of my home office desk. (New job means different priorities.)</li>\n</ol>\n",
-				"content_text": "My weekend priorities:\n\n1) Relax \n2) Read \n3) Make way for our new bedtroom furniture (excited). \n4) NAS Maintenance. \n5) Complete reconfiguring of my home office desk. (New job means different priorities.) \n",
+				"content_html": "<p>My weekend priorities:</p>\n<ul>\n<li>Relax</li>\n<li>Read</li>\n<li>Make way for our new bedtroom furniture (excited).</li>\n<li>NAS Maintenance.</li>\n<li>Complete reconfiguring of my home office desk. (New job means different priorities.)</li>\n</ul>\n",
+				"content_text": "My weekend priorities:\n\n- Relax \n- Read \n- Make way for our new bedtroom furniture (excited). \n- NAS Maintenance. \n- Complete reconfiguring of my home office desk. (New job means different priorities.) \n",
 				"date_published": "2026-04-11T12:50:15-04:00",
 				"url": "https://bump.net/2026/04/11/doing-stuff-can-be-relaxing.html"
 			},
@@ -43,7 +51,7 @@
 				"id": "http://bump.micro.blog/2026/03/25/in-ddc-irregular-doomed-edition.html",
 				
 				"content_html": "<p>In: DDC Irregular Doomed Edition Space Shuttle (December 2019)</p>\n<p>Out: 1943 (November 2025)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In: DDC Irregular Doomed Edition Space Shuttle (December 2019)\n\nOut: 1943 (November 2025)\n\n<img src=\"uploads/2026/8b666315c6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "In: DDC Irregular Doomed Edition Space Shuttle (December 2019)\n\nOut: 1943 (November 2025)\n\n<img src=\"https://cdn.uploads.micro.blog/554/2026/8b666315c6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-25T11:30:27-04:00",
 				"url": "https://bump.net/2026/03/25/in-ddc-irregular-doomed-edition.html"
 			},
