@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://bump.micro.blog/2026/09/18/last-day-journaling-with-this.html",
+				
+				"content_html": "<p>Last day journaling with this combo, both are full.</p>\n<img src=\"uploads/2026/9986eddd-777b-4ba7-9d69-614a24f68adc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Last day journaling with this combo, both are full. \n\n<img src=\"uploads/2026/9986eddd-777b-4ba7-9d69-614a24f68adc.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-09-18T09:21:59-04:00",
+				"url": "https://bump.net/2026/09/18/last-day-journaling-with-this.html"
+			},
+			{
+				"id": "http://bump.micro.blog/2026/09/02/september-inout.html",
+				
+				"content_html": "<p>September In/Out</p>\n<img src=\"uploads/2026/2aa0e7e9-4c70-47ad-8bb0-cf40b08b1fdc.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "September In/Out\n\n\n\n<img src=\"uploads/2026/2aa0e7e9-4c70-47ad-8bb0-cf40b08b1fdc.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-09-02T17:45:05-04:00",
+				"url": "https://bump.net/2026/09/02/september-inout.html"
+			},
+			{
 				"id": "http://bump.micro.blog/2026/09/02/why-do-i-still-have.html",
 				
 				"content_html": "<p>Why do I still have this?</p>\n<img src=\"uploads/2026/7c2c9a76-11d1-4a4b-85fe-4b8f6cbb571c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
